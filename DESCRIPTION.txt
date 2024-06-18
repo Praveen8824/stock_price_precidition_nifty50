@@ -4,5 +4,5 @@ python
 AI
 deep learning
 Data Analysis
-TIME FRAME 
+TIME FRAME 7days
 API...... Yfinance
