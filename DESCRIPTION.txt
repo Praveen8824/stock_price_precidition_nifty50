@@ -1,0 +1,8 @@
+Developed a machine learning model to forecast Nifty-50 stock prices for the next 7 days, enhancing trading strategies and decision-making for investors. Technologies: Python, time series analysis,machine-learning
+machine learning
+python
+AI
+deep learning
+Data Analysis
+TIME FRAME 
+API......
